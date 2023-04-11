@@ -1,0 +1,12 @@
+bory {
+width: 100%;
+height: 100%;
+}
+ .header-1{
+    width: 100%;
+    background-color: #252323;}
+    main {
+     width: 999px;
+     float: left;
+     position:relative;
+    }
